@@ -1,0 +1,17 @@
+
+.Formulario{
+    height: 300px;
+    width: 500px; 
+    margin: 0 auto; /*espacio alrededor del contenido */
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.primerClase{
+   
+    padding-bottom: 3%;
+}
+.espacio{
+    width: 50%; 
+    flex: 25%
+}
